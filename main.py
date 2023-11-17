@@ -10,8 +10,8 @@ import time
 from datetime import datetime
 #from database.users_chats_db import db
 
-API_ID = "28483638"
-API_HASH = "e890a4bc09691074f971235fca02706c"
+API_ID = "27822761"
+API_HASH = "65c300f5bf1c32d6d231f4bbcfcfa594"
 BOT_TOKEN = os.environ.get("BOT_TOKEN", None) 
 MONGO_URL = "mongodb+srv://kuldiprathod2003:kuldiprathod2003@cluster0.wxqpikp.mongodb.net/?retryWrites=true&w=majority"
 DATABASE_NAME = os.environ.get("DATABASE_NAME") 
@@ -333,6 +333,6 @@ async def Chikuprivatesticker(client: Client, message: Message):
            if not Yo == "text":
                await message.reply_sticker(f"{hey}")
 
-print(f"🎄 𝗖𝗛𝗔𝗧𝗕𝗢𝗧 𝗜𝗦 𝗦𝗧𝗔𝗥𝗧𝗘𝗗 𝗚𝗢 𝗔𝗡𝗗 𝗙𝗨𝗖𝗞🎄 ")      
+print(f"🎄 𝗖𝗛𝗔𝗧𝗕𝗢𝗧 𝗜𝗦 𝗦𝗧𝗔𝗥𝗧𝗘𝗗 𝗚𝗢 𝗔𝗡𝗗 TALK🎄 ")      
 bot.run()
 
