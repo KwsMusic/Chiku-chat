@@ -13,7 +13,7 @@ from datetime import datetime
 API_ID = "27822761"
 API_HASH = "65c300f5bf1c32d6d231f4bbcfcfa594"
 BOT_TOKEN = os.environ.get("BOT_TOKEN", None) 
-MONGO_URL = "mongodb+srv://kuldiprathod2003:kuldiprathod2003@cluster0.wxqpikp.mongodb.net/?retryWrites=true&w=majority"
+MONGO_URL = "mongodb+srv://dostuahi:WeQKx8yemN268htW@cluster0.6fstll3.mongodb.net/?retryWrites=true&w=majority"
 DATABASE_NAME = os.environ.get("DATABASE_NAME") 
 BOT_USERNAME = os.environ.get("BOT_USERNAME")
 BOT_NAME = os.environ.get("BOT_NAME")
@@ -52,15 +52,15 @@ async def restart(client, m: Message):
                 text = random.choice(EMOJIOS),
     )
     await asyncio.sleep(1)
-    await accha.edit("𝐃𝐨𝐬𝐭𝐮..𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠..")
+    await accha.edit("𝐒𝐔𝐁𝐇𝐈❤️..𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠..")
     await asyncio.sleep(0.1)
-    await accha.edit("𝐃𝐨𝐬𝐭𝐮..𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠...")
+    await accha.edit("𝐒𝐔𝐁𝐇𝐈❤️..𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠..")
     await asyncio.sleep(0.1)
-    await accha.edit("𝐃𝐨𝐬𝐭𝐮..𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠....")
+    await accha.edit("𝐒𝐔𝐁𝐇𝐈❤️..𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠....")
     await asyncio.sleep(0.1)
-    await accha.edit("𝐃𝐨𝐬𝐭𝐮..𝐒𝐭𝐚𝐫𝐭𝐞𝐝.✓")
+    await accha.edit("𝐒𝐔𝐁𝐇𝐈❤️..𝐒𝐭𝐚𝐫𝐭𝐞𝐝.✓")
     await asyncio.sleep(0.2)
-    await accha.edit("⚡𝐂𝐡𝐚𝐭 𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭⚡")
+    await accha.edit("😘𝐌𝐘 𝐋𝐎𝐕𝐄 𝐈𝐒 𝐒𝐓𝐀𝐑𝐓𝐄𝐃😘")
        
 @bot.on_message(
     filters.command(["chatbot off", f"chatbot@{BOT_USERNAME} off"], prefixes=["/", ".", "?", "-"])
@@ -333,6 +333,6 @@ async def Chikuprivatesticker(client: Client, message: Message):
            if not Yo == "text":
                await message.reply_sticker(f"{hey}")
 
-print(f"🎄 𝗖𝗛𝗔𝗧𝗕𝗢𝗧 𝗜𝗦 𝗦𝗧𝗔𝗥𝗧𝗘𝗗 𝗚𝗢 𝗔𝗡𝗗 TALK🎄 ")      
+print(f"🎄😘𝐌𝐘 𝐋𝐎𝐕𝐄 𝐈𝐒 𝐒𝐓𝐀𝐑𝐓𝐄𝐃 𝐆𝐎 𝐍𝐎𝐖😘 ")      
 bot.run()
 
