@@ -1,2 +1,2 @@
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/subhichiku/Chiku-chat"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/subhichiku/Chiku-Chat-Bot"> <img src="https://telegra.ph/file/5083ea37a0010c39ba228.jpg" width="520" height="640"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/KwsMusic/Chiku-chat"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/KwsMusic/Chiku-chat"> <img src="https://telegra.ph/file/5083ea37a0010c39ba228.jpg" width="520" height="640"/></a></p>
